@@ -1,0 +1,67 @@
+/*Estilo FORMAL*/
+#CambioCSS
+{
+    text-align: left;
+}
+
+#Formal
+{
+    display: none;
+}
+
+img
+{
+    width: 50px;
+    height: 50px;
+}
+#Intro
+{
+    text-align: center;
+    font-family:"Helvetica",sans-serif;
+    font-variant: small-caps;
+    text-shadow: 2pt 6pt 6pt yellow;
+    background-color: rgba(14, 66, 163, 0.4);
+    position: sticky;
+    left: 15%;
+    -webkit-transform: translateX(15%);
+    -moz-transform: translateX(15%);
+    width: 70%;
+    height: auto;
+    
+}
+
+p
+{
+    text-align: center;
+    color: white;
+}
+
+h2
+{
+    text-align: center;
+    color: aqua;
+}
+
+html
+{
+    background-color: #A3895F;
+    font-variant: small-caps;
+}
+
+#Aficiones
+{
+    display: none;
+}
+
+#Aptitudes, #Metas
+{
+    position: sticky;
+    -webkit-transform: translateX(15%);
+    -moz-transform: translateX(15%);
+    left: 15%;
+    width: 70%;
+    height: auto;
+    background-color: rgba(36, 129, 170, 0.4);
+    
+}
+

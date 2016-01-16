@@ -1,0 +1,64 @@
+/*Estilo AFICIONES*/
+#CambioCSS
+{
+    text-align: left;
+}
+
+html
+{
+    background-image: url("videojuegos.jpg");
+    background-position: center;
+    background-size: auto;
+    text-align: center;
+    font-family: "Helvetica",fantasy;
+}
+
+img
+{
+    width: 50px;
+    height: 50px;
+}
+
+#Manga
+{
+    display: none;
+}
+
+h2
+{
+    color: crimson;
+}
+
+#Contacto
+{
+    text-align: left;
+    color: chartreuse;
+   
+}
+
+#Aptitudes
+{
+    display: none;
+}
+
+#Intro
+{
+    background-color: rgba(255,255,255,0.3);
+    position: sticky;
+    left: 15%;
+    -webkit-transform: translateX(15%);
+    -moz-transform: translateX(15%);
+    width: 70%;
+    height: auto;
+}
+
+#Aficiones, #Metas
+{
+     background-color: rgba(255,255,255,0.3);
+    position: sticky;
+    left: 15%;
+    -webkit-transform: translateX(15%);
+    -moz-transform: translateX(15%);
+    width: 70%;
+    height: auto;
+}
